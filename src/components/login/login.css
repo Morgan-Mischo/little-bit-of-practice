@@ -4,5 +4,7 @@
 }
 
 .login {
-
+    color: pink; 
+    text-shadow: -1px -1px 0 lightblue, 1px -1px 0 lightblue, -1px 1px 0 lightblue, 1px 1px 0 lightblue;
+    font-size: 40px; 
 }

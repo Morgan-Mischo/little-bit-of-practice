@@ -7,8 +7,8 @@ class Login extends Component {
         return (
             <div className="login-container">
                 <h3 className="login">Login or Register</h3>
-                <button className="login">Login</button>
-                <button className="Register">Register</button>
+                <button className="login-btn">Login</button>
+                <button className="register">Register</button>
             </div>
         )
     }
